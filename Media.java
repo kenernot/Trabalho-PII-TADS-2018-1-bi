@@ -62,7 +62,7 @@ public class Media {
 						media += aAlunos[i][y];
 					}
 					media /= 6;
-					System.out.println(i+" -> "+ aAlunos[i][0] + ": media" + media);
+					System.out.println("Aluno: "+i+" ->  media = " + media);
 				}
 			}
 		}
